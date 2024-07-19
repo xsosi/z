@@ -1,5 +1,5 @@
-git clone https://github.com/TZThon/ZTZ TSCALE
-cd TSCALE
+git clone https://github.com/TZThon/ZTZ
+cd TZThon
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
 python3 -m zelz
