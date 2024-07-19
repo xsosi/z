@@ -13,4 +13,4 @@ RUN pip install --no-cache-dir -r requirements.txt || true
 EXPOSE 8085
 
 
-CMD bash start
+CMD bash zscale
